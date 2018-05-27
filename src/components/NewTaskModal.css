@@ -1,0 +1,20 @@
+.centered-button {
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+}
+
+.radios {
+    margin-bottom: 1.1em;
+}
+
+.btn-main {
+    margin: 1.5% 0;
+    width: 30%;
+}
+
+#description {
+    width: 400px;
+}
